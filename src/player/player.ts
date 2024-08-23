@@ -37,7 +37,7 @@ export default class Player<G extends BaseGame = BaseGame, P extends BasePlayer 
   avatar: string;
 
   /**
-   * Whether this player is the gane's host
+   * Whether this player is the game's host
    */
   host: boolean;
 
